@@ -4,7 +4,7 @@ import Search from "./pages/Search";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import Wrapper from "./components/Wrapper";
-
+// main component
 function App() {
   return (
     <Router>
